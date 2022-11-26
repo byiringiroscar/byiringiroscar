@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @byiringiroscar I like to code I have done so far over 10000 hours for coding I am specialized in python Django , Django rest framework, flask, fastapi and In mobile development
-- I use flutter for developmet I use flutter and backend I like to use Django rest framework and in Web design I use HTML, CSS, JS, BOOTSTRAP and Computer Vision, Now I am currently exploring react and node
+- 👋 Hi, I’m @byiringiroscar I like to code I have done so far over 10000 hours for coding I am specialized in python Django , Django rest framework, flask, fastapi and In mobile development I use flutter and backend I like to use Django rest framework and in Web design I use HTML, CSS, JS, BOOTSTRAP and Computer Vision, Now I am currently exploring react and node js
 - 
 - 👀 I’m interested in NLP And data science and I am even pursing in flutter and react
 - 🌱 I’m currently learning react AND NLP
