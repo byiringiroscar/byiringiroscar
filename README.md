@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React, flutter, node js**
 
-- 👨‍💻 All of my projects are available at [https://oscarbyiringiro.herokuapp.com/](https://oscarbyiringiro.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://oscar-byiringiro.onrender.com/](https://oscar-byiringiro.onrender.com/)
 
 - 💬 Ask me about **Django, DRF, Flask, Fastapi,Flutter**
 
