@@ -1,7 +1,7 @@
 
 <img align="center" alt="Coding" width="100%" height="250px" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/multi-screen.gif">
 <h1 align="center">Hi 👋, I'm Oscar Byiringiro</h1>
-<h3 align="center">A passionate fullstack developer from Rwanda</h3>
+<h4 align="center">I'm a FullStacker developer. Specialized in Python | Django | Javascript | FastApi | Flask | Django Rest Framework | Flutter | AI. NLP Engineer. In love with pair programming, Open to New Job Opportunitie</h4>
 <img align="center" alt="Coding" width="100%" src="https://github.com/bellom/bellom/raw/master/game-play.gif">
 
 
