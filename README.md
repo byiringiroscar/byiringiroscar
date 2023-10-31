@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **ntwarioscar12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ge6ZeyZoFkoKjKeqVqvdDZ7T7g5V3JYS/view](https://drive.google.com/file/d/1Ge6ZeyZoFkoKjKeqVqvdDZ7T7g5V3JYS/view)
+- 📄 Know about my experiences [https://resume.io/r/xvmDAbSnS](https://resume.io/r/xvmDAbSnS)
 
 - ⚡ Fun fact **I am Funny and like video games**
 
