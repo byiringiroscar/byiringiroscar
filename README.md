@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://oscar-byiringiro.onrender.com/](https://oscar-byiringiro.onrender.com/)
 
-- 💬 Ask me about **Django, DRF, Flask, Fastapi,Flutter**
+- 💬 Ask me about **Django, DRF, Flask, Fastapi, Flutter, Nextjs, React, Python, Javascript**
 
 - 📫 How to reach me **ntwarioscar12@gmail.com**
 
