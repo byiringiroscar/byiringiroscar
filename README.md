@@ -1,7 +1,7 @@
 
 <img align="center" alt="Coding" width="100%" height="250px" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/multi-screen.gif">
 <h1 align="center">Hi 👋, I'm Oscar Byiringiro</h1>
-<h4 align="center">I'm a FullStack developer. Specialized in Python | Django | Javascript | Rails | FastApi | Flask | Django Rest Framework | React | Nextjs | Flutter | AI. NLP Engineer. In love with pair programming, Open to New Job Opportunities</h4>
+<h4 align="center">I'm a FullStack Engineer Specialized in Python | Django | Javascript | Rails | FastApi | Flask | Django Rest Framework | React | Nextjs | Flutter | AI. NLP Engineer. In love with pair programming, Open to New Job Opportunities</h4>
 <img align="center" alt="Coding" width="100%" src="https://github.com/bellom/bellom/raw/master/game-play.gif">
 
 
