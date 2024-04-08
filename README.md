@@ -13,13 +13,13 @@
 
 - 🔭 I’m currently working on **Sign language translation**
 
-- 🌱 I’m currently learning **React, flutter, node js**
+- 🌱 I’m currently learning **Rails, flutter, nodejs,Fiber**
 
 - 👨‍💻 All of my projects are available at [https://oscar-byiringiro.onrender.com/](https://oscar-byiringiro.onrender.com/)
 
 - 💬 Ask me about **Django, DRF, Flask, Fastapi, Flutter, Nextjs, React, Python, Javascript**
 
-- 📫 How to reach me **ntwarioscar12@gmail.com**
+- 📫 How to reach me **byiringoroscar@gmail.com**
 
 - 📄 Know about my experiences [https://resume.io/r/xvmDAbSnS](https://resume.io/r/xvmDAbSnS)
 
