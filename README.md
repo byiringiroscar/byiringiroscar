@@ -21,8 +21,6 @@
 
 - 📫 How to reach me **byiringoroscar@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://app.enhancv.com/share/a4d1565e/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/byiringirooscar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="byiringirooscar" height="30" width="40" /></a>
