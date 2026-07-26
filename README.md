@@ -23,8 +23,6 @@
 
 - 📄 Know about my experiences [https://resume.io/r/xvmDAbSnS](https://resume.io/r/xvmDAbSnS)
 
-- ⚡ Fun fact **I am Funny and like video games**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/byiringirooscar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="byiringirooscar" height="30" width="40" /></a>
