@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **byiringoroscar@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/xvmDAbSnS](https://resume.io/r/xvmDAbSnS)
+- 📄 Know about my experiences [Resume](https://app.enhancv.com/share/a4d1565e/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
